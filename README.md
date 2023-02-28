@@ -1,4 +1,4 @@
-<h1 align="center" border="none">Majd Muhtaseb</h1>
+<h3 align="center" border="none">Majd Muhtaseb</h3>
 <h3 align="center">A passionate developer from Palestine 🇵🇸</h3>
 <hr />
 
