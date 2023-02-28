@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Majd Muhtaseb</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=080208&background=FF259800&center=true&vCenter=true&width=435&height=32&lines=Software+Engineer;Web+Developer;Mobile+Developers;Designer;Data+Analyst" alt="Majd" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=080208&background=FF259800&center=true&vCenter=true&width=435&height=32&lines=Software+Engineer;Web+Developer;Mobile+Developer;Designer;Data+Analyst" alt="Majd" />
 </p>
 <hr />
 
