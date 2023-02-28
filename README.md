@@ -1,8 +1,8 @@
+<h1 align="center">Majd Muhtaseb</h3>
 <h3 align="center">A passionate developer from Palestine 🇵🇸</h3>
+<hr />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmu1x&label=Profile%20views&color=0e75b6&style=flat" alt="itsmu1x" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmu1x" alt="itsmu1x" /></a> </p>
 
 - 🌱 I’m currently learning » **runtimes**
 
