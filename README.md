@@ -8,7 +8,7 @@
 
 - 📫 How to reach me » **contact@mu1x.dev**
 
-- 📄 Know about my experiences on [https://www.mu1x.dev](my website)
+- 📄 Know about my experiences on [my website](https://www.mu1x.dev)
 
 - ⚡ Fun fact » **i love energy drinks**
 
