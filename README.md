@@ -4,6 +4,13 @@
   
 
 ### <div align="center">I'm Majd, a full-time full-stack developer 👨‍💻 working remotely since 2017 🚀</div>  
+<div align="center">
+            <a href="https://paypal.me/mu1x" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a></div>
   
 
 - 🔭 Know about my experiences on my **[Website](https://www.mu1x.dev)**  
@@ -130,21 +137,4 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/mu1x" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
+ 
