@@ -1,16 +1,16 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Palestine 🇵🇸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmu1x&label=Profile%20views&color=0e75b6&style=flat" alt="itsmu1x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmu1x" alt="itsmu1x" /></a> </p>
 
-- 🌱 I’m currently learning **runtimes**
+- 🌱 I’m currently learning » **runtimes**
 
-- 📫 How to reach me **contact@mu1x.dev**
+- 📫 How to reach me » **contact@mu1x.dev**
 
-- 📄 Know about my experiences [https://www.mu1x.dev](https://www.mu1x.dev)
+- 📄 Know about my experiences on [https://www.mu1x.dev](my website)
 
-- ⚡ Fun fact **i love energy drinks**
+- ⚡ Fun fact » **i love energy drinks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
