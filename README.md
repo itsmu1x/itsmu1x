@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majd Muhtaseb</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B330B3&background=FF259800&vCenter=true&width=435&lines=Software+Engineer;Web+Developer;Mobile+Developers;Designer;Data+Analyst" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B330B3&background=FF259800&center=true&vCenter=true&width=435&height=30&lines=Software+Engineer;Web+Developer;Mobile+Developers;Designer;Data+Analyst" alt="Typing SVG" /></a>
 <hr />
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
